@@ -3,5 +3,12 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"spellchecker.ignoreWordsList": [
+			"test2",
+			"localhost",
+			"actuall"
+		]
+	}
 }
